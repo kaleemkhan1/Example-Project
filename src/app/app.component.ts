@@ -10,4 +10,6 @@ export class AppComponent {
   
   arr = 10;
 
+  arr2 = 0;
+
 }
